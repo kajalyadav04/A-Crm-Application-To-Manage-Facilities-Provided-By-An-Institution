@@ -601,3 +601,11 @@ Future Considerations:
 - **Currency and Time Zone Support:** Extend the CRM to handle multiple currencies and time zones if the institution has global facilities or branches.
     Example: "For international institutions, the system could support currency conversion for certain facility bookings and adjust booking times based on users' time zones."
 
+## Screenshots
+
+![Screenshot (438)](https://github.com/user-attachments/assets/ea49bd07-9fe5-45e6-b9c2-b7a0f923004d)
+![Screenshot (439)](https://github.com/user-attachments/assets/81d1ccf3-9281-4253-becd-cae1ab9e4f7b)
+![Screenshot (440)](https://github.com/user-attachments/assets/76e05177-e9db-41b1-bc2e-67cd6bd3af69)
+![Screenshot (441)](https://github.com/user-attachments/assets/c190ff3f-1080-4f1e-8cab-31912dd15557)
+
+
